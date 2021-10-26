@@ -3,7 +3,7 @@ A script to help redditors to perform search operations in their saved posts or 
 
 This is my first side project.
 
-Prerequisites this script
+Prerequisites for this script
 
 -  ### Create Reddit Script app 
     1. go to reddit -> preferences -> apps
